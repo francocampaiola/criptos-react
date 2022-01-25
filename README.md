@@ -1,3 +1,3 @@
 # criptos-react
 
-Repositorio creado para el segundo proyecto del curso de ReactJS.
+Repositorio creado para el tercer proyecto del curso de ReactJS.
