@@ -1,3 +1,4 @@
+import React from 'react';
 import styled from "@emotion/styled";
 
 const Contenedor = styled.div`
@@ -46,7 +47,7 @@ const Resultado = ({resultado}) => {
                 <Texto>Última actualización: <span>{LASTUPDATE}</span></Texto>
            </div>
       </Contenedor>
-  )
+  );
 };
 
 export default Resultado;
