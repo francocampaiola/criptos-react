@@ -22,13 +22,13 @@ const Precio = styled.p`
     span {
         font-weight: 700;
     }
-`
+`;
 
 const Imagen = styled.img`
     display: block;
     width: 120px;
     margin-top: 80px;
-`
+`;
 
 const Resultado = ({resultado}) => {
   
