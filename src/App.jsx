@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react'
 import Resultado from './components/Resultado'
-import Formulario from './Components/Formulario'
-import Spinner from './Components/Spinner'
+import Formulario from './components/Formulario'
+import Spinner from './components/Spinner'
 import styled from '@emotion/styled'
 import ImagenCripto from './img/imagen-criptos.png'
 
